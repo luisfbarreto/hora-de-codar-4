@@ -39,3 +39,11 @@ button:hover{
     cursor: pointer;
     scale: 1.3;
 }
+
+.ep{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.btskip {
+    font: normal 22pt arial;
+}
